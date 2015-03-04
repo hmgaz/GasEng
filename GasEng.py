@@ -63,7 +63,7 @@ class GasEng:
     
     
     def unload(self):
-        # Действия при выгрузке расширения
+        #  Действия при выгрузке расширения
         #Удаляем пунты меню
         for every in self.menu.actions():
             del every
