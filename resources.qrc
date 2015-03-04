@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/plugins/GasEng">
+        <file>icons/icon.png</file>
+    </qresource>
+    <qresource prefix="/new/gaseng"/>
+</RCC>

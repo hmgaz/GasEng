@@ -1,0 +1,20 @@
+[general]
+name=GasEng
+description=This plugin is for testing and templating purposes
+category=Gas
+version=0.0.1
+qgisMinimumVersion=2.0
+
+author=Denisov
+email=vden@hmgaz.ru
+
+icon=icons/icon.png
+
+tags=testing,template
+
+homepage=http://
+tracker=https://
+repository=https://
+
+experimental=True
+deprecated=False
